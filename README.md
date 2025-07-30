@@ -12,7 +12,7 @@ It is a typical **binary classification problem**, where the target variable (`q
 
 ---
 
-### 🎯 Project Goal
+## 🎯 Project Goal
 
 The goal of this project is to **build machine learning models** that help Human Resources (HR) teams proactively identify employees who are likely to leave, so the organization can take corrective actions.
 
@@ -27,7 +27,7 @@ You will:
 
 ---
 
-### 📊 Dataset Structure
+## 📊 Dataset Structure
 
 * **Number of Instances (Rows):** 14,999
 * **Number of Features (Columns):** 10 (independent variables) + 1 target variable (`quit`)
@@ -36,7 +36,7 @@ You will:
 
 ---
 
-### 🧾 Feature Dictionary
+## 🧾 Feature Dictionary
 
 | Column Name             | Data Type | Description                                                                |
 | ----------------------- | --------- | -------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ You will:
 
 ---
 
-### 📈 Insights from the Data
+## 📈 Insights from the Data
 
 * The majority of employees did **not receive a promotion** in the last 5 years.
 * Most employees belong to the **sales department** and have a **low salary**.
@@ -62,7 +62,7 @@ You will:
 * Only a small fraction of employees had work accidents or received promotions.
 
 ---
-### 🔧 Recommended Preprocessing
+## 🔧 Recommended Preprocessing
 
 To prepare the data for modeling, the following steps are recommended:
 
@@ -82,7 +82,7 @@ To prepare the data for modeling, the following steps are recommended:
 
 ---
 
-### ✅ Why This Dataset Matters
+## ✅ Why This Dataset Matters
 
 Understanding employee churn is critical for businesses, as high turnover leads to:
 
